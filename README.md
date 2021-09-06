@@ -1,2 +1,2 @@
 # ryhma4
-Maxim
+Maxim, Kseniya ja Laura ryhmätehtävä
